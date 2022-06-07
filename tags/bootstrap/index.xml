@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap on Hey This Is Hannah</title>
+    <link>https://hangineer.github.io/tags/bootstrap/</link>
+    <description>Recent content in Bootstrap on Hey This Is Hannah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hangineer.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>week2:Bootstrap之亂</title>
+      <link>https://hangineer.github.io/blog/week02/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week02/</guid>
+      <description>Bootstrap 第二週首先登場的是Bootstrap
+繼上週學了 html(70%)和 css(30%)後
+覺得都還跟得上老師的步調
+但&amp;hellip;..
+第二週老師的步調加快了許多
+開始感到有點力不從心
+例如在練習的時候發生一些 bug 還沒找到原因</description>
+    </item>
+    
+  </channel>
+</rss>

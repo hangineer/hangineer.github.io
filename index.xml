@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hey This Is Hannah</title>
+    <link>https://hangineer.github.io/</link>
+    <description>Recent content on Hey This Is Hannah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hangineer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week15 - 歡迎來到 React</title>
+      <link>https://hangineer.github.io/blog/week15/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week15/</guid>
+      <description>概要 這週將進入課表的最後一堂課-React
+終於來到到前端最重要的部分&amp;mdash;&amp;ndash;框架
+React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
+比起 Vue、Angular，React 算是限制較少的框架，但正因其限制少，所以對 JavaScript 的功力要求會比較高，如果自身對 JavaScript 不夠熟悉，可能會在學 React 的路上很辛苦，至少要熟悉陣列、物件、函式的語法。</description>
+    </item>
+    
+    <item>
+      <title>Week14 - Node.js課程尾聲</title>
+      <link>https://hangineer.github.io/blog/week14/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week14/</guid>
+      <description>概要 本週的課程安排主要也是 Node.js
+這個禮拜老師講解了路由模組化(用 module.exports=router 匯出路由)、如何連線資料庫並把資料寫進資料庫、使用 Express-session 製作簡易的登入系統、介紹 cors 如何掛載到 express 建立伺服器等。</description>
+    </item>
+    
+    <item>
+      <title>Week13 - 體會Node.js的強大</title>
+      <link>https://hangineer.github.io/blog/week13/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week13/</guid>
+      <description>概要 時間過得好快，課程已邁入第13週，距離結訓的時間已經不到兩個月！
+這個禮拜老師介紹了Node.js的執行環境和各種套件模組，例如Npm、Express、EJS、body-parser、Cors 、MySQL、mutler 、BlueBird ，這是上課所教的套件，另外還有很多的套件，網路上的資源非常多，要用的時候再去查找。
+Node.js是什麼？ 簡單來說，是一個讓我們能夠在伺服端運行JavaScript 的執行環境，搭配各種套件模組，可以擴展更多功能。
+順帶一提，我們的大專題已經決定要用Node.js+MySQL來建置後端環境，對於沒有相關經驗的人來說，是件令人緊張反胃焦慮的事啊!加油~~</description>
+    </item>
+    
+    <item>
+      <title>Week11-RESTful API &#43; 生日週</title>
+      <link>https://hangineer.github.io/blog/week11/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week11/</guid>
+      <description>遠距教學邁入第二周 已經能適應線上上課的模式，也開始漸漸感受到其便利性和優點 這週有上了 HTML5 API 和 RESTful API 因為上週有大概談過 HTML5 API，所以這週我們就來講講 RESTful API</description>
+    </item>
+    
+    <item>
+      <title>Week12-疫情高峰 啟動線上課程</title>
+      <link>https://hangineer.github.io/blog/week12/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week12/</guid>
+      <description>遠距教學的啟動 由於疫情越來越嚴峻，所以這週便開始啟動線上教學。
+線上更需要自律能力 實體和線上比對下來，如果你夠自律的話，我覺得線上的優點是多於實體的，各有好壞。實體課程比較能夠感受到學習的壓力，也比線上課程多了份臨場感，因為在教室裡你看得到同學老師，人嘛~眼見為憑，當你發現大家其實都很努力也很認真時，自然就不會太鬆懈，會有股壓力在推著你前進。
+簡要本週上課內容 來談談這週的上課內容好了，這週都在講 HTML5API 的部分，一開始對 API 的概念感到十分的抽象，什麼是 API？什麼是 API 的串接？</description>
+    </item>
+    
+    <item>
+      <title>Week10-一整週的jQuery課程</title>
+      <link>https://hangineer.github.io/blog/week10/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week10/</guid>
+      <description>Write less ,do more 是我對 jQuery 的第一印象 由於 jQuery 是 JavaScript 的函式庫 所以一整週也算是一邊學新的 jQuery 語法、指令，一邊複習 JavaScript</description>
+    </item>
+    
+    <item>
+      <title>Week09-Bye PHP , Hello jQuery</title>
+      <link>https://hangineer.github.io/blog/week09/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week09/</guid>
+      <description>jQuery 的世界 這週來到了 jQuery 的世界，老師再三的強調我們一定要回去複習 JavaScript，而第一節課我們也以複習 js 為主要任務
+一開始覺得腦袋有一點卡卡的
+畢竟可能還活在 PHP 的世界中還沒有走出來 🤣 跟著老師循序漸進的複習方式，讓我心臟沒有那麼痛，後來也順利的進入狀況</description>
+    </item>
+    
+    <item>
+      <title>Week08-PHP的世界</title>
+      <link>https://hangineer.github.io/blog/week08/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week08/</guid>
+      <description>PHP 的世界 講到 PHP ,就想到在還沒開課之前，我有在觀望一個 PHP 的課程，時間大約為期半年
+後來沒有去的原因是，台中剛好有開設前端班，學習的內容對初學者比較友善，門檻相對較低，對設計網頁畫面是有熱忱的，於是就選擇來上前端班了
+但前端班畢竟還是得接觸一些後端的東西，這一碰不得了啊！什麼是$_SESSION ？什麼是$_COOKIE ？擷取 private 變數要透過 setter 和 getter ?</description>
+    </item>
+    
+    <item>
+      <title>week07-資料庫</title>
+      <link>https://hangineer.github.io/blog/week07/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week07/</guid>
+      <description>緊湊的生活 專題結束的隔天，便開始上 MySQL 的課程，這是第一次接觸 MySQL
+老實說還滿有趣的～～
+SELECT FROM WHERE….除了指令簡單明瞭外
+看著資料被精準的抓出也是挺酷的</description>
+    </item>
+    
+    <item>
+      <title>week05&#43;week06-專題衝刺</title>
+      <link>https://hangineer.github.io/blog/week05&#43;week06/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week05&#43;week06/</guid>
+      <description>與壓力當朋友 Week5 和 week6 可說是沒日沒夜的在做專題
+壓力籠罩著每天清醒的時刻
+晚上也沒有好好跟周公打交道 而是開始在夢裡討論起專題
+哈哈哈現在想想真的有點誇張
+即便如此</description>
+    </item>
+    
+    <item>
+      <title>week04-適合與不適合</title>
+      <link>https://hangineer.github.io/blog/week04/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week04/</guid>
+      <description>適合與不適合 上課三週以來，每週的授課老師都不一樣
+所以目前有三位老師，分別教授自己擅長的領域
+後面的課程就會有重複的老師
+目前可能是因為剛開始的關係
+所以接觸到不同的老師機率比較大
+那這篇文為什麼要叫做適合與不適合呢?
+原因是這週的老師的上課方式比較適合進階或是有基礎的同學
+似乎不是那麼適合初學者
+問了旁邊的同學，也是有相同的想法</description>
+    </item>
+    
+    <item>
+      <title>week03-感受css的神奇</title>
+      <link>https://hangineer.github.io/blog/week03/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week03/</guid>
+      <description>CSS 這週主要是上 CSS
+總共 8 堂課，24hr
+第一週在講 HTML 的時候，有稍微講到 CSS 的部分</description>
+    </item>
+    
+    <item>
+      <title>week2:Bootstrap之亂</title>
+      <link>https://hangineer.github.io/blog/week02/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week02/</guid>
+      <description>Bootstrap 第二週首先登場的是Bootstrap
+繼上週學了 html(70%)和 css(30%)後
+覺得都還跟得上老師的步調
+但&amp;hellip;..
+第二週老師的步調加快了許多
+開始感到有點力不從心
+例如在練習的時候發生一些 bug 還沒找到原因</description>
+    </item>
+    
+    <item>
+      <title>week1:重新出發</title>
+      <link>https://hangineer.github.io/blog/week01/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week01/</guid>
+      <description>開課前 這週是上課的第一週
+在上課之前，訓練單位都會要求學員要通過 python 的先修課程(總共 18 小時)，採用線上的方式進行，不過是預錄的影片
+18 小時的課程，要在考試前自行分配進度看完
+覺得某種程度上也是在考驗人的自律能力阿~</description>
+    </item>
+    
+    <item>
+      <title>轉行契機</title>
+      <link>https://hangineer.github.io/blog/job/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/job/</guid>
+      <description>關於轉行 不知道說到「轉行」會想到什麼?
+轉行契機 來說說自己的經驗好了
+會想轉職的原因很多，但最主要是不想讓自己的視野侷限在補習班
+想看看自己是否有更多可能，為了更好的生活，
+聽起來很籠統，但我告訴自己一定要去執行，
+當我真正下定決心離開原本的產業至少花了半年，
+想表達的是，轉職真的不是件容易的事&amp;gt;&amp;lt;
+就很像打怪破關，不論大小，總有層層的關卡等你來解</description>
+    </item>
+    
+  </channel>
+</rss>

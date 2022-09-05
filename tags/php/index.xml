@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on Hey This Is Hannah</title>
+    <link>https://hangineer.github.io/tags/php/</link>
+    <description>Recent content in PHP on Hey This Is Hannah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hangineer.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week08-PHP的世界</title>
+      <link>https://hangineer.github.io/blog/week08/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week08/</guid>
+      <description>PHP 的世界 講到 PHP ,就想到在還沒開課之前，我有在觀望一個 PHP 的課程，時間大約為期半年
+後來沒有去的原因是，台中剛好有開設前端班，學習的內容對初學者比較友善，門檻相對較低，對設計網頁畫面是有熱忱的，於是就選擇來上前端班了
+但前端班畢竟還是得接觸一些後端的東西，這一碰不得了啊！什麼是$_SESSION ？什麼是$_COOKIE ？擷取 private 變數要透過 setter 和 getter ?</description>
+    </item>
+    
+  </channel>
+</rss>

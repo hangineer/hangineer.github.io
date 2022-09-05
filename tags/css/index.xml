@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on Hey This Is Hannah</title>
+    <link>https://hangineer.github.io/tags/css/</link>
+    <description>Recent content in CSS on Hey This Is Hannah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hangineer.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>week03-感受css的神奇</title>
+      <link>https://hangineer.github.io/blog/week03/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week03/</guid>
+      <description>CSS 這週主要是上 CSS
+總共 8 堂課，24hr
+第一週在講 HTML 的時候，有稍微講到 CSS 的部分</description>
+    </item>
+    
+    <item>
+      <title>week2:Bootstrap之亂</title>
+      <link>https://hangineer.github.io/blog/week02/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week02/</guid>
+      <description>Bootstrap 第二週首先登場的是Bootstrap
+繼上週學了 html(70%)和 css(30%)後
+覺得都還跟得上老師的步調
+但&amp;hellip;..
+第二週老師的步調加快了許多
+開始感到有點力不從心
+例如在練習的時候發生一些 bug 還沒找到原因</description>
+    </item>
+    
+    <item>
+      <title>week1:重新出發</title>
+      <link>https://hangineer.github.io/blog/week01/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week01/</guid>
+      <description>開課前 這週是上課的第一週
+在上課之前，訓練單位都會要求學員要通過 python 的先修課程(總共 18 小時)，採用線上的方式進行，不過是預錄的影片
+18 小時的課程，要在考試前自行分配進度看完
+覺得某種程度上也是在考驗人的自律能力阿~</description>
+    </item>
+    
+    <item>
+      <title>轉行契機</title>
+      <link>https://hangineer.github.io/blog/job/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/job/</guid>
+      <description>關於轉行 不知道說到「轉行」會想到什麼?
+轉行契機 來說說自己的經驗好了
+會想轉職的原因很多，但最主要是不想讓自己的視野侷限在補習班
+想看看自己是否有更多可能，為了更好的生活，
+聽起來很籠統，但我告訴自己一定要去執行，
+當我真正下定決心離開原本的產業至少花了半年，
+想表達的是，轉職真的不是件容易的事&amp;gt;&amp;lt;
+就很像打怪破關，不論大小，總有層層的關卡等你來解</description>
+    </item>
+    
+  </channel>
+</rss>

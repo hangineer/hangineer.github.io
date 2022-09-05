@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jQuery on Hey This Is Hannah</title>
+    <link>https://hangineer.github.io/tags/jquery/</link>
+    <description>Recent content in jQuery on Hey This Is Hannah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hangineer.github.io/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week12-疫情高峰 啟動線上課程</title>
+      <link>https://hangineer.github.io/blog/week12/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week12/</guid>
+      <description>遠距教學的啟動 由於疫情越來越嚴峻，所以這週便開始啟動線上教學。
+線上更需要自律能力 實體和線上比對下來，如果你夠自律的話，我覺得線上的優點是多於實體的，各有好壞。實體課程比較能夠感受到學習的壓力，也比線上課程多了份臨場感，因為在教室裡你看得到同學老師，人嘛~眼見為憑，當你發現大家其實都很努力也很認真時，自然就不會太鬆懈，會有股壓力在推著你前進。
+簡要本週上課內容 來談談這週的上課內容好了，這週都在講 HTML5API 的部分，一開始對 API 的概念感到十分的抽象，什麼是 API？什麼是 API 的串接？</description>
+    </item>
+    
+    <item>
+      <title>Week10-一整週的jQuery課程</title>
+      <link>https://hangineer.github.io/blog/week10/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week10/</guid>
+      <description>Write less ,do more 是我對 jQuery 的第一印象 由於 jQuery 是 JavaScript 的函式庫 所以一整週也算是一邊學新的 jQuery 語法、指令，一邊複習 JavaScript</description>
+    </item>
+    
+    <item>
+      <title>Week09-Bye PHP , Hello jQuery</title>
+      <link>https://hangineer.github.io/blog/week09/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hangineer.github.io/blog/week09/</guid>
+      <description>jQuery 的世界 這週來到了 jQuery 的世界，老師再三的強調我們一定要回去複習 JavaScript，而第一節課我們也以複習 js 為主要任務
+一開始覺得腦袋有一點卡卡的
+畢竟可能還活在 PHP 的世界中還沒有走出來 🤣 跟著老師循序漸進的複習方式，讓我心臟沒有那麼痛，後來也順利的進入狀況</description>
+    </item>
+    
+  </channel>
+</rss>

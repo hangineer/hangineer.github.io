@@ -136,9 +136,8 @@
         <div class="content mb-5">
           <h3 id="概要">概要</h3>
 <p>本週的課程安排主要也是 Node.js</p>
-<p>這個禮拜老師講解了路由模組化(用 module.exports=router 匯出路由)、如何連線資料庫並把資料寫進資料庫、使用 Express-session 製作簡易的登入系統、介紹 cors 如何掛載到 express 建立伺服器等。</p>
-<p>有不少內容是跟自己負責的專題有重疊，趁勢磨練一下這部分的實作能力!試著將上課教的東西結合我們的網站，不過還有很多額外的功能(例如:
-上傳大頭照、第三方登入)需要再鑽研。</p>
+<p>這個禮拜老師講解了路由模組化(用 module.exports=router 匯出路由)、如何連線資料庫並把資料寫進資料庫、使用 Express-session 製作簡易的登入系統、介紹 cors 如何掛載到 Express 建立伺服器等。</p>
+<p>有不少內容是跟自己負責的專題有重疊，趁勢磨練一下!試著將上課教的東西結合我們的網站，不過還有很多額外的功能(例如:上傳大頭照、第三方登入)是需要再鑽研的。</p>
 <!-- raw HTML omitted -->
 <h3 id="登入功能">登入功能</h3>
 <p>事先準備:</p>
@@ -155,8 +154,8 @@
 <li>GET/login:登入頁面</li>
 <li>POST/login:判斷有無帳號密碼，有=&gt;設 session，返回 success；沒有=&gt;返回 error</li>
 </ul>
-<ol start="2">
-<li>登入後才能修改及刪除資料，利用 if&hellip;else&hellip;來判斷登入前後要顯示什麼內容</li>
+<ol>
+<li>登入後才能修改及刪除資料，判斷登入前後要顯示什麼內容</li>
 <li>建立 middleware 預先判斷是否存在 session</li>
 </ol>
 <!-- raw HTML omitted -->
@@ -167,7 +166,7 @@
 <p>以下三種條件都要符合，就叫做同源:</p>
 <ol>
 <li>通訊協定(http/https)</li>
-<li>機器名稱(domain)</li>
+<li>主機位置(domain)</li>
 <li>埠號(port)</li>
 </ol>
 <p>Same Origin Policy 會限制 JavaScript 進行跨網域請求。</p>

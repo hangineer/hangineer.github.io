@@ -16,7 +16,7 @@
       <description>概要 這週將進入課表的最後一堂課-React
 終於來到到前端最重要的部分&amp;mdash;&amp;ndash;框架
 React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
-比起 Vue、Angular，React 算是限制較少的框架，但正因其限制少，所以對 JavaScript 的功力要求會比較高，如果自身對 JavaScript 不夠熟悉，可能會在學 React 的路上很辛苦，至少要熟悉陣列、物件、函式的語法。</description>
+比起 Vue、Angular，React 算是限制較少的框架，但正因其限制少，所以對 javaScript 的要求會比較高，如果自身對 javaScript 不夠熟悉，可能會在學 React 的路上會很辛苦</description>
     </item>
     
     <item>
@@ -25,7 +25,9 @@ React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hangineer.github.io/blog/week11/</guid>
-      <description>遠距教學邁入第二周 已經能適應線上上課的模式，也開始漸漸感受到其便利性和優點 這週有上了 HTML5 API 和 RESTful API 因為上週有大概談過 HTML5 API，所以這週我們就來講講 RESTful API</description>
+      <description>遠距教學邁入第二周 已經慢慢能適應線上上課的模式，也開始漸漸感受到其便利性和優點
+這週上了 HTML5 API 和 RESTful API
+這週來紀錄 RESTful API</description>
     </item>
     
     <item>
@@ -34,8 +36,9 @@ React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hangineer.github.io/blog/week12/</guid>
-      <description>遠距教學的啟動 由於疫情越來越嚴峻，所以這週便開始啟動線上教學。
-線上更需要自律能力 實體和線上比對下來，如果你夠自律的話，我覺得線上的優點是多於實體的，各有好壞。實體課程比較能夠感受到學習的壓力，也比線上課程多了份臨場感，因為在教室裡你看得到同學老師，人嘛~眼見為憑，當你發現大家其實都很努力也很認真時，自然就不會太鬆懈，會有股壓力在推著你前進。
+      <description>遠距教學的啟動 由於疫情越來越嚴峻，所以這週便開始啟動線上教學
+線上更需要自律能力 實體和線上比對下來，雖然各有好壞，不過夠自律的話，我覺得線上的優點是多於實體的。實體課程比較能夠感受到學習的壓力，也比線上課程多了份臨場感，因為在教室裡你看得到同學老師，當你發現大家都很努力也很認真時，自然就不太敢鬆懈，會有股壓力在推著你前進
+但是問題來了，學習成效就較難維持和掌握，真的是要更自律，才能夠鞏固這段時間的學習和強度呢!這也是我還在學習的
 簡要本週上課內容 來談談這週的上課內容好了，這週都在講 HTML5API 的部分，一開始對 API 的概念感到十分的抽象，什麼是 API？什麼是 API 的串接？</description>
     </item>
     
@@ -54,9 +57,9 @@ React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hangineer.github.io/blog/week09/</guid>
-      <description>jQuery 的世界 這週來到了 jQuery 的世界，老師再三的強調我們一定要回去複習 JavaScript，而第一節課我們也以複習 js 為主要任務
+      <description>jQuery 的世界 這週來到了 jQuery 的世界，老師再三的強調我們一定要回去複習 JavaScript，而第一節課也以複習 js 為主要任務
 一開始覺得腦袋有一點卡卡的
-畢竟可能還活在 PHP 的世界中還沒有走出來 🤣 跟著老師循序漸進的複習方式，讓我心臟沒有那麼痛，後來也順利的進入狀況</description>
+畢竟可能還活在 PHP 的世界中還沒有走出來 🤣</description>
     </item>
     
     <item>
@@ -79,14 +82,14 @@ React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
       
       <guid>https://hangineer.github.io/blog/week04/</guid>
       <description>適合與不適合 上課三週以來，每週的授課老師都不一樣
-所以目前有三位老師，分別教授自己擅長的領域
-後面的課程就會有重複的老師
-目前可能是因為剛開始的關係
-所以接觸到不同的老師機率比較大
-那這篇文為什麼要叫做適合與不適合呢?
-原因是這週的老師的上課方式比較適合進階或是有基礎的同學
+目前有三位老師，分別教授自己擅長的領域
+那這篇文的標題想了很久，才決定好
+那為什麼要叫「適合與不適合」呢?
+原因是這週的授課老師的上課方式比較適合進階或是有基礎的同學
 似乎不是那麼適合初學者
-問了旁邊的同學，也是有相同的想法</description>
+問了坐我旁邊的同學，也是有相同的想法
+但更多同學就不得而知了
+自己也檢討了一下自己</description>
     </item>
     
     <item>
@@ -109,8 +112,7 @@ React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
       <description>Bootstrap 第二週首先登場的是Bootstrap
 繼上週學了 html(70%)和 css(30%)後
 覺得都還跟得上老師的步調
-但&amp;hellip;..
-第二週老師的步調加快了許多
+但第二週老師的步調加快了許多
 開始感到有點力不從心
 例如在練習的時候發生一些 bug 還沒找到原因</description>
     </item>
@@ -121,10 +123,9 @@ React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hangineer.github.io/blog/week01/</guid>
-      <description>開課前 這週是上課的第一週
-在上課之前，訓練單位都會要求學員要通過 python 的先修課程(總共 18 小時)，採用線上的方式進行，不過是預錄的影片
-18 小時的課程，要在考試前自行分配進度看完
-覺得某種程度上也是在考驗人的自律能力阿~</description>
+      <description>授人以魚，不如授人以漁，
+ 開課前 這週是上課的第一週
+在上課之前，訓練單位都會要求學員要通過 python 的先修課程(總共 18 小時)，採用線上的方式進行，不過是預錄的影片</description>
     </item>
     
     <item>
@@ -133,14 +134,13 @@ React 是一個相對小型的函式庫，以 JavaScript 為建構基礎。
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hangineer.github.io/blog/job/</guid>
-      <description>關於轉行 不知道說到「轉行」會想到什麼?
-轉行契機 來說說自己的經驗好了
-會想轉職的原因很多，但最主要是不想讓自己的視野侷限在補習班
-想看看自己是否有更多可能，為了更好的生活，
-聽起來很籠統，但我告訴自己一定要去執行，
-當我真正下定決心離開原本的產業至少花了半年，
-想表達的是，轉職真的不是件容易的事&amp;gt;&amp;lt;
-就很像打怪破關，不論大小，總有層層的關卡等你來解</description>
+      <description>鳥兒離開了原本的籠子，獨自進到這片大而無邊充滿未知的天空，雖然不知道會到哪，但終究會找到屬於牠的地方，只要牠不放棄
+ 轉行契機 想轉職的原因很多，但最主要是不想讓自己的視野侷限在補習班
+很好奇離開補習班的舒適圈，自己是否有更多可能?我的能耐究竟到哪?
+當真正下定決心離開原產業至少也花了半年在思考、規劃(不論是職涯還是金錢規劃)，
+人家總說萬事起頭難，我想這時候似乎可以明白箇中含意
+跨出第一步，是多麼需要勇氣和決心
+這一路就像打怪破關，不論大小，總有層層的關卡等著我</description>
     </item>
     
   </channel>
